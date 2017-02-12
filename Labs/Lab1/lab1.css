@@ -1,0 +1,29 @@
+body {
+	background-color: #1dcaff;
+}
+
+.tweetBox {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 25px;
+    background-color: #c0deed;
+    border-style: none;
+}
+
+.userBox {
+	min-height: 20px;
+    padding: 28px 50px;
+    margin-bottom: 25px;
+    background-color: #c0deed;
+    border-style: none;
+}
+
+.img-align-left{
+    float: left;
+    width: 50px;
+    margin-right: 10px;
+}
+
+#tweets, #usernames {
+	background-color: #0084b4;
+}

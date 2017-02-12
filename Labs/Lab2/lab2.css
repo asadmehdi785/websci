@@ -1,0 +1,31 @@
+html { 
+  background: url(bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body { 
+  background-color: transparent; 
+}
+
+h1, h2, p {
+	font-weight: normal;
+	color: #ccffff;
+}
+
+.table-borderless tbody tr td,
+.table-borderless tbody tr th,
+.table-borderless thead tr th,
+.table-borderless thead tr td {
+    border: none;
+}
+
+#current p {
+	font-size: 25px;
+}
+
+#temp, #desc {
+	font-weight: bold;
+}
